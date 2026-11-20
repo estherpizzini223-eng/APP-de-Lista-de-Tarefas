@@ -38,7 +38,7 @@ Não é necessário instalar dependências para executar a aplicação localment
 
 ## Aplicação publicada
 
-A aplicação está disponível no GitHub Pages:
+A aplicação está disponível no GitHub:
 https://github.com/estherpizzini223-eng/APP-de-Lista-de-Tarefas
 
 ## Principais decisões de implementação
